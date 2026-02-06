@@ -1,0 +1,13 @@
+# Digital Definition Restorer Dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+imageio>=2.31.0
+
+# Optional for additional features
+scikit-image>=0.21.0  # For advanced image analysis
+matplotlib>=3.7.0     # For visualization
+
+# Development
+pytest>=7.4.0
+black>=23.9.0
