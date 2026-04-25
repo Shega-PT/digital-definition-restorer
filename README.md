@@ -23,7 +23,7 @@ An advanced, AI-inspired image restoration tool that recovers lost detail in poo
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/digital-definition-restorer.git
+   git clone https://github.com/Shega-PT/digital-definition-restorer.git
    cd digital-definition-restorer
 
    
@@ -180,7 +180,7 @@ We welcome contributions from developers, researchers, and image processing enth
 Development Setup
 
 # Clone and setup
-git clone https://github.com/yourusername/digital-definition-restorer.git
+git clone https://github.com/Shega-PT/digital-definition-restorer.git
 cd digital-definition-restorer
 
 # Install development dependencies
